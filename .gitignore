@@ -1,0 +1,14 @@
+# R运行缓存文件
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto自动生成的文件
+*.pdf
+*.html
+_site/
+
+# 电脑系统自带垃圾文件
+.DS_Store
+Thumbs.db
