@@ -6,6 +6,8 @@ format: pdf
 pdf:
   documentclass: article
   geometry: margin=1in
+  fontsize: 11pt
+  linestretch: 1.5
 ---
 
 # 一、研究背景
